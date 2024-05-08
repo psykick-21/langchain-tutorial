@@ -3,6 +3,8 @@ langchain
 langchain_community
 langchain-openai
 langchain-core
+langchain-chroma
 python-dotenv
 beautifulsoup4
 faiss-cpu
+nltk
